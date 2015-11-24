@@ -1,8 +1,10 @@
+Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dynamic-load-awesome/blob/master/README-cn.md)
+
 ### Dynamic load uninstalled APK
 
 1.  https://github.com/Qihoo360/DroidPlugin
 
-    >   A plugin framework on android,Run any third-party apk without installation, modification or repackage
+    >   A plugin framework on android, run any third-party apk without installation, modification or repackage
 
     Both English and Chinese documents are avaiable, powered by @Qihoo360.
 
@@ -21,7 +23,7 @@
     Method replacement, well document, powered by @alibaba
 
 1.  https://github.com/bunnyblue/DroidFix
-
+    
 
 ### Others
 
