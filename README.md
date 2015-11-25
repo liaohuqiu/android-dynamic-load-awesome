@@ -2,7 +2,7 @@ Any pull request is WELCOME.
 
 Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dynamic-load-awesome/blob/master/README-cn.md)
 
-### Dynamic load uninstalled APK
+### Dynamic load uninstalled APK (also called plugin)
 
 1.  https://github.com/Qihoo360/DroidPlugin
 
@@ -18,14 +18,33 @@ Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dy
 
     The plugin APK should obay some standard, only chinese document available now.
 
+1.  https://github.com/CtripMobile/DynamicAPK
+
+    Likely from Taobao's Atlas solution, completely transparent to plugin developer, each plugin module can run standalone. Both English and Chinese documents are avaiable.
+
 ### Hot Fix
 
 1.  https://github.com/alibaba/Andfix
 
     Method replacement, well document, powered by @alibaba
 
+1.  https://github.com/alibaba/dexposed
+
+    Method injection(before, after, replace), well document, powered by @alibaba, based on the work of open-source Xposed framework project. Only support Dalvik.
+
 1.  https://github.com/bunnyblue/DroidFix
-    
+
+    Only Chinese document. Whole class replace.
+
+1.  https://github.com/dodola/HotFix
+
+    Only Chinese document. Whole class replace.
+
+1.  https://github.com/jasonross/Nuwa
+
+    Well documented in English. Pure java implementation. Whole class replace.
+
+** DroidFix, HotFix, Nuwa used the same principle (pathClassLoader, dexElement). **
 
 ### Others
 
