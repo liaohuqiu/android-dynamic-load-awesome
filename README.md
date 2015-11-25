@@ -62,3 +62,7 @@ Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dy
 *   Chinese
 
     1. https://github.com/liaohuqiu/android-dynamic-load-awesome
+
+    1. http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/
+
+      Compared Dexposed, AndFix and Nuwa and the basic principle after them.
