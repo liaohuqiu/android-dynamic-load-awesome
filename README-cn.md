@@ -1,6 +1,6 @@
 欢迎整理和补充。
 
-### 动态加载 APK
+### 动态加载 APK (又称插件)
 
 1.  https://github.com/Qihoo360/DroidPlugin
 
