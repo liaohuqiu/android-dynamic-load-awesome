@@ -33,4 +33,4 @@
 
 ### 文章
 
-1. https://github.com/liaohuqiu/android-dynamic-load-awesome
+1. http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/
