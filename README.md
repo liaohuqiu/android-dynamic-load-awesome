@@ -1,3 +1,5 @@
+Any pull request is WELCOME.
+
 Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dynamic-load-awesome/blob/master/README-cn.md)
 
 ### Dynamic load uninstalled APK
