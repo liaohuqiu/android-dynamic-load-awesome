@@ -37,6 +37,10 @@ Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dy
 1.  https://github.com/bunnyblue/ACDD
 
     >   ACDD，Android Component Dynamic Deployment(plugin)
+    
+1.  https://github.com/CtripMobile/DynamicAPK
+
+    >   ACDD Style Component Dynamic Deployment Solution
 
 ### Posts
 
