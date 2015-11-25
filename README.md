@@ -44,7 +44,13 @@ Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dy
 
     Well documented in English. Pure java implementation. Whole class replace.
 
-** DroidFix, HotFix, Nuwa used the same principle (pathClassLoader, dexElement). **
+    ** DroidFix, HotFix, Nuwa used the same principle (pathClassLoader, dexElement). **
+
+### Skin
+
+1.  https://github.com/hongyangAndroid/AndroidChangeSkin
+
+2.  https://github.com/fengjundev/Android-Skin-Loader
 
 ### Others
 
@@ -68,3 +74,9 @@ Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dy
     1. http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/
 
       Compared Dexposed, AndFix and Nuwa and the basic principle after them.
+
+
+
+
+
+

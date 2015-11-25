@@ -22,6 +22,11 @@
 
 1.  https://github.com/bunnyblue/DroidFix
 
+### 皮肤
+
+1.  https://github.com/hongyangAndroid/AndroidChangeSkin
+
+2.  https://github.com/fengjundev/Android-Skin-Loader
 
 ### 其他
 
