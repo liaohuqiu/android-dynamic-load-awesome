@@ -1,1 +1,34 @@
-等英文版确定无误后，我会出对应的中文文档，当然，非常欢迎各位 PR。
+### 动态加载 APK
+
+1.  https://github.com/Qihoo360/DroidPlugin
+
+    直接运行第三方，无需安装，文档齐全，360 的产品。
+
+1.  https://github.com/houkx/android-pluginmgr
+
+    无侵入，但是 Eclipse 风格的项目
+
+1.  https://github.com/singwhatiwanna/dynamic-load-apk
+
+    APK 需要符合一定规范，只有中文文档。
+
+### Hot Fix
+
+1.  https://github.com/alibaba/Andfix
+
+    方法替换。阿里巴巴的项目。
+
+1.  https://github.com/bunnyblue/DroidFix
+    
+
+### 其他
+
+1.  https://github.com/mmin18/AndroidDynamicLoader
+
+
+1.  https://github.com/bunnyblue/ACDD
+
+
+### 文章
+
+1. https://github.com/liaohuqiu/android-dynamic-load-awesome
