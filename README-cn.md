@@ -31,6 +31,9 @@
 1.  https://github.com/bunnyblue/ACDD
 
 
+1.  https://github.com/CtripMobile/DynamicAPK
+
+
 ### 文章
 
 1. https://github.com/liaohuqiu/android-dynamic-load-awesome
