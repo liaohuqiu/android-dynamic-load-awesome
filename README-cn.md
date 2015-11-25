@@ -21,7 +21,7 @@
     方法替换。阿里巴巴的项目。
 
 1.  https://github.com/bunnyblue/DroidFix
-    
+
 
 ### 其他
 
@@ -31,9 +31,8 @@
 1.  https://github.com/bunnyblue/ACDD
 
 
-1.  https://github.com/CtripMobile/DynamicAPK
-
-
 ### 文章
 
 1. http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/
+
+    比较了Dexposed、AndFix和Nuwa系三种热补丁方案，并简要分析了他们的原理和使用场景。
