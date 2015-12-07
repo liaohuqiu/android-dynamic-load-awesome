@@ -41,3 +41,7 @@
 1. http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/
 
     比较了Dexposed、AndFix和Nuwa系三种热补丁方案，并简要分析了他们的原理和使用场景。
+
+2. http://blog.dreamtobe.cn/2015/12/07/android_dynamic_dex/
+
+    Android中动态加载dex基本原理、使用、风险建议以及对应Ant/Gradle编译脚本小记.

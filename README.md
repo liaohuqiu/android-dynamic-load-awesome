@@ -62,7 +62,7 @@ Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dy
 1.  https://github.com/bunnyblue/ACDD
 
     >   ACDD，Android Component Dynamic Deployment(plugin)
-    
+
 1.  https://github.com/CtripMobile/DynamicAPK
 
     >   ACDD Style Component Dynamic Deployment Solution
@@ -75,8 +75,6 @@ Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dy
 
       Compared Dexposed, AndFix and Nuwa and the basic principle after them.
 
+    2. http://blog.dreamtobe.cn/2015/12/07/android_dynamic_dex/
 
-
-
-
-
+      Android dynamic load dex ways and build scripts notes.
