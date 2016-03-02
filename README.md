@@ -44,7 +44,7 @@ Here is the Chinese version: [中文版](https://github.com/liaohuqiu/android-dy
 
     Well documented in English. Pure java implementation. Whole class replace.
 
-    ** DroidFix, HotFix, Nuwa used the same principle (pathClassLoader, dexElement). **
+    **DroidFix, HotFix, Nuwa used the same principle (pathClassLoader, dexElement).**
 
 ### Skin
 
